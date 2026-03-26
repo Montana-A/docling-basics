@@ -37,6 +37,7 @@ docling https://events.linuxfoundation.org/wp-content/uploads/2026/03/sponsor_py
 ```
 
 **Output File:** [sponsor_pytconf26_eu_030526.md](sponsor_pytconf26_eu_030526.md)
+
 **Terminal Output:**
 ![default_conversion](img/default_conversion.png)
 
@@ -73,6 +74,7 @@ docling https://events.linuxfoundation.org/wp-content/uploads/2026/03/sponsor_py
 ```
 
 **Output File:** [sponsor_pytconf26_eu_030526.html](sponsor_pytconf26_eu_030526.html)
+
 **Terminal Output:**
 ![html_conversion](img/html_conversion.png)
 
@@ -98,6 +100,7 @@ docling https://events.linuxfoundation.org/wp-content/uploads/2026/03/sponsor_py
 ```
 
 **Output File:** [sponsor_pytconf26_eu_030526.json](sponsor_pytconf26_eu_030526.json)
+
 **Terminal Output:**
 ![json_conversion](img/json_conversion.png)
 
@@ -123,6 +126,7 @@ docling https://events.linuxfoundation.org/wp-content/uploads/2026/03/sponsor_py
 ```
 
 **Output File:** [sponsor_pytconf26_eu_030526.txt](sponsor_pytconf26_eu_030526.txt)
+
 **Terminal Output:**
 ![text_conversion](img/text_conversion.png)
 
@@ -177,6 +181,7 @@ docling -v https://events.linuxfoundation.org/wp-content/uploads/2026/03/sponsor
 ```
 
 **Output File:** [no_ocr/sponsor_pytconf26_eu_030526.md](no_ocr/sponsor_pytconf26_eu_030526.md)
+
 **Terminal Output:**
 ![no_ocr_conversion](img/no_ocr_conversion.png)
 
@@ -202,6 +207,7 @@ docling -v https://events.linuxfoundation.org/wp-content/uploads/2026/03/sponsor
 ```
 
 **Output File:** [referenced/sponsor_pytconf26_eu_030526.md](referenced/sponsor_pytconf26_eu_030526.md)
+
 **Terminal Output:**
 ![image_export_conversion](img/image_export_conversion.png)
 
@@ -227,6 +233,7 @@ docling -v https://events.linuxfoundation.org/wp-content/uploads/2026/03/sponsor
 ```
 
 **Output File:** [no_tables/sponsor_pytconf26_eu_030526.md](no_tables/sponsor_pytconf26_eu_030526.md)
+
 **Terminal Output:**
 ![no_tables_conversion](img/no_tables_conversion.png)
 
